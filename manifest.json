@@ -1,0 +1,10 @@
+{
+  "name": "OtakuTrack",
+  "short_name": "OtakuTrack",
+  "description": "Suivi personnel des animes et mangas",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#0a0a0f",
+  "icons": []
+}
